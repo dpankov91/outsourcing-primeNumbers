@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj": {}
+    "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj": {
+    "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj",
+        "projectUniqueName": "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj",
         "projectName": "PrimeNumbersService",
-        "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj",
-        "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersService\\obj\\",
+        "projectPath": "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersService\\PrimeNumbersService.csproj",
+        "packagesPath": "C:\\Users\\londo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dpank\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\londo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

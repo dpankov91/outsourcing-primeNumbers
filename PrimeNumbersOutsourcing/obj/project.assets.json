@@ -224,28 +224,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dpank\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\londo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersOutsourcing\\PrimeNumbersOutsourcing.csproj",
+      "projectUniqueName": "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersOutsourcing\\PrimeNumbersOutsourcing.csproj",
       "projectName": "PrimeNumbersOutsourcing",
-      "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersOutsourcing\\PrimeNumbersOutsourcing.csproj",
-      "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\outsourcing-primeNumbers\\PrimeNumbersOutsourcing\\obj\\",
+      "projectPath": "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersOutsourcing\\PrimeNumbersOutsourcing.csproj",
+      "packagesPath": "C:\\Users\\londo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\londo\\source\\repos\\PBA\\outsourcing-primeNumbers\\PrimeNumbersOutsourcing\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dpank\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\londo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
