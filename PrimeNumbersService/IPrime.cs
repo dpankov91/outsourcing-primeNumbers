@@ -8,5 +8,6 @@ namespace PrimeNumbersService
 {
     public interface IPrime
     {
+        public List<string> GetPrimeAndNonPrimeNumberCounter(int number, int number2);
     }
 }
