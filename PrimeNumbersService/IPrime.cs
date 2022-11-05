@@ -8,9 +8,9 @@ namespace PrimeNumbersService
 {
     public interface IPrime
     {
-        public List<string> GetPrimeAndNonPrimeNumberCounter(int number, int number2);
-        public List<string> GetAllPrimeAndNonPrimeNumberbeforefirstNumber(int number, int number2);
-        public string ListOfPrimeInProcentBetween(int listofprimebetween);
-        public string ListOfPrimeInProcentbeforeLowest(int listofprimebefore);
+        public List<string> GetPrimeAndNonPrimeNumberCounter(int startNumber, int endNumber);
+        public List<string> GetAllPrimeAndNonPrimeNumberBeforeFirstNumber(int startNumber, int endNumber);
+        public string ListOfPrimeInProcentBetween(int listOfPrimeBetween);
+        public string ListOfPrimeInProcentbeforeLowest(int listOfPrimeBefore);
     }
 }
