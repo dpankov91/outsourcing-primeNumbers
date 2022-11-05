@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -46,9 +48,21 @@ namespace PrimeNumbersService
             throw new NotImplementedException();
         }
 
-        public string ListOfPrimeInProcentbeforeLowest(int listOfPrimeBefore)
+        public string ListOfPrimeInProcentbeforeLowest(List<string> listOfPrimeBefore)
         {
-            throw new NotImplementedException();
+            string primeNumberString = listOfPrimeBefore[0];
+            string nonPrimeNumberString = listOfPrimeBefore[1];
+
+            int primeNumber = int.Parse(primeNumberString);
+            int nonPrimeNumber = int.Parse(nonPrimeNumberString);
+
+            int totalAmount = primeNumber + nonPrimeNumber;
+
+            int procentPrimeNumber = (int)Math.Round((double)(100 * primeNumber) / totalAmount);
+
+            string procentPrimeNumberString = procentPrimeNumber.ToString() + "%";
+
+            return procentPrimeNumberString;
         }
 
         public string ListOfPrimeInProcentBetween(int listOfPrimeBetween)
